@@ -1,0 +1,11 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+    row-gap: 20px;
+}
+.conteinerWork{
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+}
